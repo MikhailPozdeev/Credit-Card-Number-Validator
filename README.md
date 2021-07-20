@@ -8,9 +8,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 * [1. Issue American Express (AMEX)](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues/1)
-* [2. Issue American Express (AMEX)](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues/2)
-* [3. Issue Visa](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues/3)
-* [4. Issue Discover](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues/4)
+* [2. Issue Visa](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues/3)
+* [3. Issue Discover](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues/4)
 
 ## Описание процесса тестирования
 
