@@ -7,9 +7,7 @@
 На тестирование затрачено: 3.5 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* [1. Issue American Express (AMEX)](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues/1)
-* [2. Issue Visa](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues/3)
-* [3. Issue Discover](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues/4)
+* [Issue] (https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues)
 
 ## Описание процесса тестирования
 
