@@ -3,7 +3,9 @@
 ## Краткое описание
 
 12.07.2021 - 12.07.2021 было проведено Функциональное тестирование приложения Credit Card Number Validator
+
 На тестирование затрачено: 3.5 часа.
+
 В результате тестирования выявлены следующие дефекты:
 * [1. Issue American Express (AMEX)](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues/1)
 * [2. Issue American Express (AMEX)](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues/2)
