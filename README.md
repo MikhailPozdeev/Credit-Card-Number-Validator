@@ -7,7 +7,7 @@
 На тестирование затрачено: 3.5 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* [Issue](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues)
+* [Программа не принимает значения кредитных карт не равных 16 символам](https://github.com/MikhailPozdeev/Credit-Card-Number-Validator/issues)
 
 ## Описание процесса тестирования
 
